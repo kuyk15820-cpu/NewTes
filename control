@@ -1,0 +1,8 @@
+Package: com.apple.f1x3r.decrypt
+Name: decrypt
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Decrypt iOS apps with TrollStore
+Maintainer: f1x3r
+Author: f1x3r
+Section: Applications
